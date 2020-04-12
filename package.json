@@ -1,0 +1,21 @@
+{
+  "name": "mysql-node-configuration-assistant",
+  "version": "0.0.0",
+  "description": "How to use:",
+  "main": "index.js",
+  "scripts": {
+    "test": "node  --trace-uncaught app",
+    "start": "node  --trace-uncaught app",
+    "example": "node --trace-uncaught ./example/example "
+  },
+  "author": "Cliff Crerar",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
+}
