@@ -17,5 +17,17 @@
   "directories": {
     "example": "example"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinity-arc/mysql-configuration-assistant.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/infinity-arc/mysql-configuration-assistant/issues"
+  },
+  "homepage": "https://github.com/infinity-arc/mysql-configuration-assistant#readme",
+  "licenses": [
+    "MIT"
+  ]
 }
